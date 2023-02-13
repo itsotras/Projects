@@ -1,6 +1,6 @@
 #CSCI 104 Homework
 
-The files include C++ code I made in my CSCI 104 course at USC. Each homework was a different problem that focused on different data structures and algorithms.
+The files include C++ code I made in my CSCI 104 course at USC. Each homework was a different problem that focused on different data structures and algorithms. Starter code was given by CSCI 104, and was added on by me.
 
 HW 1: Linked List Email Inbox (Linked List and Recursion) 
 
