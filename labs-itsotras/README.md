@@ -4,6 +4,10 @@ Name: Ioannis Tsotras
 
 Email: itsotras@usc.edu
 
+Labs from my ITP-380 class at USC
+
+Made with C++ and SDL libraries. Assets were provided by the class, as well as starting code. 
+
 Lab 1: Pong
 
 Lab 2: Asteroids
