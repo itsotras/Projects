@@ -8,8 +8,8 @@ HW 2: Local Webpage Parser (Inheritance and Polymorphism)
 
 HW 3: A* Game Hint Giver (Heaps and A*)
 
-HW 4: 
+HW 4: AVL Tree Implementation (AVL Trees)
 
-HW 5:
+HW 5: 
 
 HW 6:
