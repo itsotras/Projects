@@ -1,0 +1,7 @@
+*.o
+test-small/
+hw2-tests/
+mdparser-tests
+search-shell
+search-shell-m1
+search-shell-x86

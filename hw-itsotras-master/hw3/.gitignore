@@ -1,0 +1,8 @@
+*.o
+llrec-test
+rh
+heap
+rh
+stack
+hw3_heap_checker
+
