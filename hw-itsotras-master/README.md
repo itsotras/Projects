@@ -12,4 +12,4 @@ HW 4: AVL Tree Implementation (AVL Trees)
 
 HW 5: Wordle and Scheduler Helper (Probability, Counting, Recursion)
 
-HW 6: 
+HW 6: Hash Table Implementation and Graph Isomorphism (Hash Tables)
