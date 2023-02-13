@@ -4,7 +4,7 @@ The files include C++ code I made in my CSCI 104 course at USC. Each homework wa
 
 HW 1: Linked List Email Inbox
 
-HW 2: 
+HW 2: Local Webpage Parser
 
 HW 3:
 
