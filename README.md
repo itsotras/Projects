@@ -17,7 +17,7 @@ I worked on implementing the behavior of Bone Boy, as well as implementing the c
 
 ##### Sorceror Smackdown
 This link takes you to Sorceror Smackdown, a game I was the programming co-lead for in Open Alpha.
-https://open-alpha-usc.itch.io/sorcerer-smackdown
 
+https://open-alpha-usc.itch.io/sorcerer-smackdown
 I worked on mentoring our novice programmers, as well as designating tasks for our programming team to accomplish.
 My main priorities were player colliders, the game manager, and implementing animations.
