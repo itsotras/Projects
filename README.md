@@ -24,3 +24,8 @@ https://open-alpha-usc.itch.io/sorcerer-smackdown
 
 I worked on mentoring our novice programmers, as well as designating tasks for our programming team to accomplish.
 My main priorities were player colliders, the game manager, and implementing animations.
+
+##### UE5 Networked Multiplayer FPS
+This zip includes the Unreal Engine 5 build of a networked multiplayer FPS I made in ITP 438 at USC.
+Players can join other player's lobbies through Steam if they are friends.
+Players can chat to each other, to their team, shoot bullets and grenades. 
